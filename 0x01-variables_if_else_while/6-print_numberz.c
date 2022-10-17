@@ -2,7 +2,7 @@
 
 /**
 
- * Main - prints numbers between 0 to 9.
+ * main - prints numbers between 0 to 9
 
  *
 

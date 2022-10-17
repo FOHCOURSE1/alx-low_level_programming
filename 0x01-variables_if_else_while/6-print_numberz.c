@@ -2,11 +2,11 @@
 
 /**
 
- * main - prints numbers between 0 to 9.
+ * Main - prints numbers between 0 to 9.
 
  *
 
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
 
  */
 

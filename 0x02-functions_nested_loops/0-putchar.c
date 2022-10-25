@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *  *main-main code
- *   *Description:print -putchar in a new line
- *    *Return:this program returns zero
- *     */
+ *main-main code
+ *Description:print -putchar in a new line
+ *Return:this program returns zero
+ */
 int main(void)
 {
 	_putchar('_');
@@ -15,5 +15,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	return (0)
+	return (0);
 }
